@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471454924889",
+    "project_id": "work-blend",
+    "storage_bucket": "work-blend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471454924889:android:a49d28196bd5cf837d3148",
+        "android_client_info": {
+          "package_name": "com.pseudorandomnumbergenerators"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUYZodwfnFzCRfL5FQHEqc6vtvPPtRpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
