@@ -11,7 +11,7 @@ const rootReducer = combineReducers({
 // Configuration object for redux-persist
 // Specifies the storage engine and the key for the root level of the state tree
 const persistConfig = {
-    key: 'Pseudorandom Number Generators',
+    key: 'PseudorandomNumberGenerators',
     storage: AsyncStorage,
 };
 
