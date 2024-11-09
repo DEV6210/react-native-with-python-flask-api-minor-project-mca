@@ -42,7 +42,7 @@ const CreateJobScreen = ({ navigation }) => {
                     </TouchableOpacity>
                     <TouchableOpacity
                         onPress={() => {
-                            Linking.openURL('https://workblend.in/login');
+                            Linking.openURL('https://Pseudorandom Number Generators.in/login');
                         }}
                         style={{
                             height: 36,

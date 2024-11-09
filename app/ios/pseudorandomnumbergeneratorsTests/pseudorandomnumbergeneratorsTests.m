@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface workblendTests : XCTestCase
+@interface Pseudorandom Number GeneratorsTests : XCTestCase
 
 @end
 
-@implementation workblendsts
+@implementation Pseudorandom Number Generatorssts
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

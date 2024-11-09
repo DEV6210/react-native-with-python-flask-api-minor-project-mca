@@ -147,7 +147,7 @@ const FinalJobPostScreen = ({ route, navigation }) => {
                             <Text style={styles.label}>Job Description:</Text>
                             {
                                 jobdata?.applyLink ?
-                                    <TouchableOpacity onPress={() => Linking.openURL(jobdata?.applyLink ? jobdata?.applyLink : 'https://workblend.in')}>
+                                    <TouchableOpacity onPress={() => Linking.openURL(jobdata?.applyLink ? jobdata?.applyLink : 'https://Pseudorandom Number Generators.in')}>
                                         <Text style={{ color: 'blue' }} >{jobdata?.applyLink}</Text>
                                     </TouchableOpacity>
                                     :
@@ -197,7 +197,7 @@ const FinalJobPostScreen = ({ route, navigation }) => {
                                     {
                                         jobdata?.applyLink ?
                                             <TouchableOpacity
-                                                onPress={() => { Linking.openURL(jobdata?.applyLink ? jobdata?.applyLink : 'https://workblend.in'); postJob() }}
+                                                onPress={() => { Linking.openURL(jobdata?.applyLink ? jobdata?.applyLink : 'https://Pseudorandom Number Generators.in'); postJob() }}
                                                 style={{
                                                     backgroundColor: '#007BFF',
                                                     height: 40,

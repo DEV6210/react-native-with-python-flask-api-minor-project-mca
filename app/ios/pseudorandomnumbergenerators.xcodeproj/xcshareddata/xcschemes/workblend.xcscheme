@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "workblend.app"
-               BlueprintName = "workblend"
-               ReferencedContainer = "container:workblend.xcodeproj">
+               BuildableName = "Pseudorandom Number Generators.app"
+               BlueprintName = "Pseudorandom Number Generators"
+               ReferencedContainer = "container:Pseudorandom Number Generators.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "workblendTests.xctest"
-               BlueprintName = "workblendTests"
-               ReferencedContainer = "container:workblend.xcodeproj">
+               BuildableName = "Pseudorandom Number GeneratorsTests.xctest"
+               BlueprintName = "Pseudorandom Number GeneratorsTests"
+               ReferencedContainer = "container:Pseudorandom Number Generators.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "workblend.app"
-            BlueprintName = "workblend"
-            ReferencedContainer = "container:workblend.xcodeproj">
+            BuildableName = "Pseudorandom Number Generators.app"
+            BlueprintName = "Pseudorandom Number Generators"
+            ReferencedContainer = "container:Pseudorandom Number Generators.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "workblend.app"
-            BlueprintName = "workblend"
-            ReferencedContainer = "container:workblendxcodeproj">
+            BuildableName = "Pseudorandom Number Generators.app"
+            BlueprintName = "Pseudorandom Number Generators"
+            ReferencedContainer = "container:Pseudorandom Number Generatorsxcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
